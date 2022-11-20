@@ -1,4 +1,4 @@
-X,Y,xcoord,ycoord,imb_code,imb_nbr_logloc,imb_type,addr_numero,addr_nom_voie
+X,Y,xcoord,ycoord,imb_nbr_logloc,imb_type,addr_numero,addr_nom_voie
 -1.55792104980855,47.2147346609171,-173426.97796081,5977194.94055947,16,IM,9,Rue du Couédic,
 -1.54998518222057,47.2287356420502,-172543.561221914,5979489.79805078,1,PA,15,Rue Maurice Utrillo,
 -1.5492450469001,47.2240935925989,-172461.16973492,5978728.86692962,7,IM,3,Avenue Henri Ollivier,
